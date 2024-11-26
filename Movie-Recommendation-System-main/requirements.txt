@@ -1,8 +1,0 @@
-streamlit
-numpy
-Pillow
-pandas
-requests
-beautifulsoup4
-urllib3
-scikit-learn
